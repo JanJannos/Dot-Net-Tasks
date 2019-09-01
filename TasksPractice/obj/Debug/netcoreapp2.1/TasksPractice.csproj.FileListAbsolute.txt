@@ -1,0 +1,11 @@
+C:\Users\X220\source\repos\TasksPractice\TasksPractice\bin\Debug\netcoreapp2.1\TasksPractice.deps.json
+C:\Users\X220\source\repos\TasksPractice\TasksPractice\bin\Debug\netcoreapp2.1\TasksPractice.runtimeconfig.json
+C:\Users\X220\source\repos\TasksPractice\TasksPractice\bin\Debug\netcoreapp2.1\TasksPractice.runtimeconfig.dev.json
+C:\Users\X220\source\repos\TasksPractice\TasksPractice\bin\Debug\netcoreapp2.1\TasksPractice.dll
+C:\Users\X220\source\repos\TasksPractice\TasksPractice\bin\Debug\netcoreapp2.1\TasksPractice.pdb
+C:\Users\X220\source\repos\TasksPractice\TasksPractice\obj\Debug\netcoreapp2.1\TasksPractice.csprojAssemblyReference.cache
+C:\Users\X220\source\repos\TasksPractice\TasksPractice\obj\Debug\netcoreapp2.1\TasksPractice.csproj.CoreCompileInputs.cache
+C:\Users\X220\source\repos\TasksPractice\TasksPractice\obj\Debug\netcoreapp2.1\TasksPractice.AssemblyInfoInputs.cache
+C:\Users\X220\source\repos\TasksPractice\TasksPractice\obj\Debug\netcoreapp2.1\TasksPractice.AssemblyInfo.cs
+C:\Users\X220\source\repos\TasksPractice\TasksPractice\obj\Debug\netcoreapp2.1\TasksPractice.dll
+C:\Users\X220\source\repos\TasksPractice\TasksPractice\obj\Debug\netcoreapp2.1\TasksPractice.pdb
